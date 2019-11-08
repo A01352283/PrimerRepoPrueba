@@ -1,2 +1,3 @@
-# PrimerRepoPrueba
-Prueba de primer repo
+#Hello World!
+
+Ésta es la actividad Hello World para aprender a usar GitHub.
